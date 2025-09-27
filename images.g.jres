@@ -44,6 +44,16 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "ocean_background"
     },
+    "image10": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAmZkAAAAAAJBmZgkAAAAAaYiIlgAAAJCGERFoCQAAkBjMnIEJAABpkQCQgZYAAGmRmcmBlgAAacHZyYGWAABpwdnJgZYAAGnBmcmBlgAAaZEAkIGWAACQGMwciAkAAJCGEYFmCQAAAGmIaJkAAAAAkGaWAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "data"
+    },
+    "image11": {
+        "data": "hwQYABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/DwAAAAAAAAAAAAD/DwAAAAAAAAAAAP9E9A8AAAAAAAAAAMy76w4AAAAAAAAAAGZmRgQAAAAAAACwu0RCZAbQDQAAAAAAu0RCtGvQDQAAAAAAsERCRGvQ3b27u7u7u0tCRGvQ3b27u7u7u0RCRGvQDQAAAAAAsERCRGsAAAAAAACwu/9E9A8AAAAAAAAAu8zu/gAAAAAAAAAAAGb/DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "sonar_buoy"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
